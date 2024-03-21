@@ -1,3 +1,3 @@
 # repository01
 
-*scm*: Colaboração
+*scm*: Colabor**ação**
