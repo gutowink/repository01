@@ -9,6 +9,10 @@
      - teste3.2
 # prática
 [google](google.com)
-'códigos'
+
+`código`
+
 ## teste
 > só sei que nada sei
+
+![alt text](image.png)
