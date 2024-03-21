@@ -23,4 +23,4 @@
 
 | Nome | Idade | 
 |:-----:|------:|
-| Augusto | 18 |
+| Augusto |18 |
