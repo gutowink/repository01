@@ -8,7 +8,7 @@
    - teste3.1
      - teste3.2
 # prática
-[meu perfil](hhttps://github.com/gutowink/)
+[meu perfil][def]
 
 `código`
 
@@ -16,3 +16,6 @@
 > só sei que nada sei
 
 ![alt text](image.png)
+
+
+[def]: hhttps://github.com/gutowink/
