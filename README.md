@@ -8,7 +8,7 @@
    - teste3.1
      - teste3.2
 # prática
-[google]https:/google.com/)
+[google](https:/google.com/)
 
 `código`
 
