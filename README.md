@@ -18,3 +18,9 @@
 ## Nota
 
 [nota](2024-03-21/notes.md)
+
+## Tabela
+
+| Nome | Idade | 
+|:-----:|------:|
+| Augusto | | 18|
