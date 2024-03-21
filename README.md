@@ -24,19 +24,3 @@
 | Nome | Idade | 
 |:-----:|------:|
 | Augusto |18 |
-
-
-> [!TESTE1]
->  teste formatação1
-
-> [!TESTE2]
-> teste formatação2
-
-> [!TESTE3]
-> teste formatação3
-
-> [!TESTE4]
-> teste formatação4
-
-> [!TESTE5]
-> teste formatação5
